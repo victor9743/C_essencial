@@ -1,0 +1,15 @@
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.exe
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.deps.json
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.runtimeconfig.json
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.runtimeconfig.dev.json
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ref\ConversaoVariaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\bin\Debug\net5.0\ConversaoVariaveis.pdb
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.AssemblyInfoInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.AssemblyInfo.cs
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ref\ConversaoVariaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.pdb
+C:\Users\Victor C\Desktop\Projetos C#\ConversaoVariaveis\obj\Debug\net5.0\ConversaoVariaveis.genruntimeconfig.cache
