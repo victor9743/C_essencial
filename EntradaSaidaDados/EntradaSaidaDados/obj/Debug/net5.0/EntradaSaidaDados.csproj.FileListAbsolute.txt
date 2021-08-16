@@ -1,0 +1,16 @@
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.exe
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.deps.json
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.runtimeconfig.json
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.runtimeconfig.dev.json
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.dll
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\ref\EntradaSaidaDados.dll
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\bin\Debug\net5.0\EntradaSaidaDados.pdb
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.csproj.AssemblyReference.cache
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.AssemblyInfoInputs.cache
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.AssemblyInfo.cs
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.dll
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\ref\EntradaSaidaDados.dll
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.pdb
+C:\Users\Victor C\source\repos\EntradaSaidaDados\EntradaSaidaDados\obj\Debug\net5.0\EntradaSaidaDados.genruntimeconfig.cache
