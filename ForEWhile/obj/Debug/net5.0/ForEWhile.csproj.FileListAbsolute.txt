@@ -1,0 +1,15 @@
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.exe
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.deps.json
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.runtimeconfig.json
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.runtimeconfig.dev.json
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.dll
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ref\ForEWhile.dll
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\bin\Debug\net5.0\ForEWhile.pdb
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.AssemblyInfoInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.AssemblyInfo.cs
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.dll
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ref\ForEWhile.dll
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.pdb
+C:\Users\Victor C\Desktop\Projetos C#\ForEWhile\obj\Debug\net5.0\ForEWhile.genruntimeconfig.cache
