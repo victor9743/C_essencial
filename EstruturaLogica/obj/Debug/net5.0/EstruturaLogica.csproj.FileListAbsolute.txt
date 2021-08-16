@@ -1,0 +1,15 @@
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.exe
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.deps.json
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.runtimeconfig.json
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.runtimeconfig.dev.json
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.dll
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\ref\EstruturaLogica.dll
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\bin\Debug\net5.0\EstruturaLogica.pdb
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.AssemblyInfoInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.AssemblyInfo.cs
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.dll
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\ref\EstruturaLogica.dll
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.pdb
+C:\Users\Victor C\Desktop\Projetos C#\EstruturaLogica\obj\Debug\net5.0\EstruturaLogica.genruntimeconfig.cache
