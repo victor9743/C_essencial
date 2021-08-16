@@ -1,0 +1,15 @@
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.exe
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.deps.json
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.runtimeconfig.json
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.runtimeconfig.dev.json
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.dll
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\ref\swicthCase.dll
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\bin\Debug\net5.0\swicthCase.pdb
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.AssemblyInfoInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.AssemblyInfo.cs
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.dll
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\ref\swicthCase.dll
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.pdb
+C:\Users\Victor C\Desktop\Projetos C#\swicthCase\obj\Debug\net5.0\swicthCase.genruntimeconfig.cache
