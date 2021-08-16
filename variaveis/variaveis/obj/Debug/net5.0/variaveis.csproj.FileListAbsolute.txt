@@ -1,0 +1,16 @@
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.exe
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.deps.json
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.json
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.runtimeconfig.dev.json
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\ref\variaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\bin\Debug\net5.0\variaveis.pdb
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.csproj.AssemblyReference.cache
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfoInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.AssemblyInfo.cs
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\ref\variaveis.dll
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.pdb
+C:\Users\Victor C\Desktop\Projetos C#\variaveis\variaveis\obj\Debug\net5.0\variaveis.genruntimeconfig.cache
