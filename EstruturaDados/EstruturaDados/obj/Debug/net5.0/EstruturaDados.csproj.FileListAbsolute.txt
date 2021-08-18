@@ -1,0 +1,16 @@
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.csproj.AssemblyReference.cache
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.AssemblyInfoInputs.cache
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.AssemblyInfo.cs
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.csproj.CoreCompileInputs.cache
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.exe
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.deps.json
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.runtimeconfig.json
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.runtimeconfig.dev.json
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.dll
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\ref\EstruturaDados.dll
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\bin\Debug\net5.0\EstruturaDados.pdb
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.dll
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\ref\EstruturaDados.dll
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.pdb
+C:\Users\victor.costa\source\repos\EstruturaDados\EstruturaDados\obj\Debug\net5.0\EstruturaDados.genruntimeconfig.cache
